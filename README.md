@@ -20,7 +20,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Daniel Tse's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dtkmn&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="Daniel Tse's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dtkmn&show_icons=true&hide_border=false&theme=dark&&count_private=true" />
 
 </details>
 
