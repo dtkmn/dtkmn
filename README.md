@@ -16,6 +16,16 @@
 
 ---
 
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Daniel Tse's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dtkmn&show_icons=true&hide_border=true&theme=dark" />
+
+</details>
+
+
+
 <!--
 **dtkmn/dtkmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
