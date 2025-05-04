@@ -6,6 +6,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP: The USB‑C of AI Integrations](https://medium.com/@danieltse/mcp-the-usb-c-of-ai-integrations-994b77d0d1c8?sk=fa9f8a299828774f546eee09bc5a4d75)
 - [Why Local LLMs Matter in 2025](https://medium.com/@danieltse/why-local-llms-matter-in-2025-be0b46eb6f8c?source=friends_link&sk=a45c3fcf303c49c8c300f946a9c998e1)
 - [Simple Algorithm — Construct Binary Search Tree from Preorder Traversal](https://medium.com/@danieltse/simple-algorithm-construct-binary-search-tree-from-preorder-traversal-d7de1e2a34fe)
 - [Generate CA-signed certificate using LetsEncrypt and Certbot](https://medium.com/@danieltse/generate-ca-signed-certificate-using-letsencrypt-and-certbot-b6be295812b7)
