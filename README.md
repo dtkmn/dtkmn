@@ -1,5 +1,3 @@
-# Daniel Tse
-
 Building backend, cloud, and AI tools that survive contact with production.
 
 I like practical systems, sharp tradeoffs, and software that still works after the demo.
