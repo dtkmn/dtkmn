@@ -1,9 +1,20 @@
-### Hi there 👋
+# Daniel Tse
 
+I build practical software across backend, cloud, and AI.
 
----
+Most profile READMEs say almost nothing. The useful version:
 
-### 📕 Latest Blog Posts
+- I work on distributed systems, platform engineering, and developer tooling.
+- I write about production engineering, MCP, local LLMs, Kubernetes, and AWS.
+- I care about systems that hold up in production, not just in demos.
+
+## Current Focus
+
+- Building AI-native tools that are actually useful in real workflows
+- Making backend systems simpler, faster, and easier to operate
+- Writing with less hype and more signal about engineering tradeoffs
+
+## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [What Microservice Benchmarks Actually Measure in 2026](https://danieltse.org/posts/what-microservice-benchmarks-actually-measure-in-2026/)
@@ -15,23 +26,10 @@
 - [Import AWS API Gateway Client Certificate to Java Keystore](https://medium.com/@danieltse/import-aws-api-gateway-client-certificate-to-java-keystore-b9449c5b7f7d)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@danieltse)
+[Read more on danieltse.org](https://danieltse.org) | [Medium archive](https://medium.com/@danieltse)
 
----
+## Links
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/dtkmn)](https://leetcode.com/dtkmn)
-
-<!--
-**dtkmn/dtkmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Website: [danieltse.org](https://danieltse.org)
+- GitHub: [@dtkmn](https://github.com/dtkmn)
+- LeetCode: [dtkmn](https://leetcode.com/dtkmn)
