@@ -1,18 +1,21 @@
 # Daniel Tse
 
-I build practical software across backend, cloud, and AI.
+Building backend, cloud, and AI tools that survive contact with production.
 
-Most profile READMEs say almost nothing. The useful version:
+I like practical systems, sharp tradeoffs, and software that still works after the demo.
 
-- I work on distributed systems, platform engineering, and developer tooling.
-- I write about production engineering, MCP, local LLMs, Kubernetes, and AWS.
-- I care about systems that hold up in production, not just in demos.
+## What I'm Building
 
-## Current Focus
+- AI tooling that does real work
+- Backend systems that stay fast, boring, and operable
+- Experiments around MCP, local LLMs, Kubernetes, and AWS
 
-- Building AI-native tools that are actually useful in real workflows
-- Making backend systems simpler, faster, and easier to operate
-- Writing with less hype and more signal about engineering tradeoffs
+## Things I've Made
+
+- `mcp-zap-server` - security tooling for agent workflows
+- `agent-nexus` - multi-agent orchestration and visualization
+- `quarkus-adtech-demo` - low-latency backend experimentation
+- `llm-ai-assistant` - practical LLM app patterns
 
 ## Latest Writing
 
@@ -28,8 +31,8 @@ Most profile READMEs say almost nothing. The useful version:
 
 [Read more on danieltse.org](https://danieltse.org) | [Medium archive](https://medium.com/@danieltse)
 
-## Links
+## Elsewhere
 
 - Website: [danieltse.org](https://danieltse.org)
 - GitHub: [@dtkmn](https://github.com/dtkmn)
-- LeetCode: [dtkmn](https://leetcode.com/dtkmn)
+- Medium: [@danieltse](https://medium.com/@danieltse)
