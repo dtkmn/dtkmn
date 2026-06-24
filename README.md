@@ -17,16 +17,15 @@
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [What Microservice Benchmarks Actually Measure in 2026](https://danieltse.org/posts/what-microservice-benchmarks-actually-measure-in-2026/)
-- [Java Strikes Back: Benchmarking Quarkus Native vs. Go for High-Throughput AdTech](https://danieltse.org/posts/java-strikes-back-benchmarking-quarkus-native-vs-go-for-high-throughput-adtech/)
+- [Demos Are Cheap. Production MCP Is Expensive.](https://danieltse.org/posts/demos-are-cheap-production-mcp-is-expensive/)
+- [Test Customer Outcomes, Not AI Agents](https://danieltse.org/posts/simulate-customer-outcomes-before-shipping-ai-agents/)
+- [What Microservice Benchmarks Measure in 2026](https://danieltse.org/posts/what-microservice-benchmarks-actually-measure-in-2026/)
+- [Quarkus Native vs. Go for AdTech Throughput](https://danieltse.org/posts/java-strikes-back-benchmarking-quarkus-native-vs-go-for-high-throughput-adtech/)
 - [MCP: The USB-C of AI Integrations](https://danieltse.org/posts/mcp-the-usb-c-of-ai-integrations/)
 - [Why Local LLMs Matter in 2025](https://danieltse.org/posts/why-local-llms-matter-in-2025/)
-- [Kotlin and Java Interoperability](https://danieltse.org/posts/kotlin-and-java-interoperability/)
-- [Kafka Quickstart](https://danieltse.org/posts/kafka-quickstart/)
-- [Pull the Docker Image from AWS ECR to Kubernetes](https://danieltse.org/posts/pull-docker-image-from-aws-ecr-to-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
-[Read more on danieltse.org](https://danieltse.org/articles/) | [Medium archive](https://medium.com/@danieltse)
+[Site-canonical articles](https://danieltse.org/articles/) | [Medium archive](https://medium.com/@danieltse)
 
 ## Elsewhere
 
