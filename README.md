@@ -1,14 +1,14 @@
 ## What I'm Building
 
-- Local-first AI runtimes with Ollama and OpenAI-compatible model gateways
-- Inspectable answer loops: retrieval, verification, retries, refusals, evals, and replay
+- Private-by-default AI loop tooling with Ollama and OpenAI-compatible model gateways
+- Inspectable agent loops: evidence routing, verification, retries, refusals, evals, and replay
 - Production-shaped backend work across MCP, JVM services, Kubernetes, AWS, and observability
 
 ## Things I've Made
 
 - [`mcp-zap-server`](https://github.com/dtkmn/mcp-zap-server) - OWASP ZAP exposed as an MCP server for agent-driven security scanning, with auth modes, URL guardrails, [docs](https://dtkmn.github.io/mcp-zap-server/), and a [demo](https://dtkmn.github.io/mcp-zap-server/demo.html).
-- [`mcp-gateway-core`](https://github.com/dtkmn/mcp-gateway-core) - Java governance contracts for MCP tool gateways: identity, authorization, policy decisions, audit events, quota/rate limits, and URL scoping.
-- [`ai-loop-engine`](https://github.com/dtkmn/ai-loop-engine) - local-first AI loop runtime for document QA with Ollama/OpenAI-compatible backends, citation verification, retry/refusal guardrails, evals, JSONL replay, and trace exports.
+- [`mcp-gateway-core`](https://github.com/dtkmn/mcp-gateway-core) - embeddable Java governance contracts for MCP tool runtimes: tool identity, access rules, governance decisions, audit events, abuse protection, quota/rate limits, URL scoping, and an optional WebFlux adapter.
+- [`loopwright`](https://github.com/dtkmn/loopwright) - flight recorder for AI agent loops: evidence routing, verification, retry/refusal guardrails, evals, JSONL replay, and trace exports across Ollama/OpenAI-compatible runtimes.
 - [`rtb-ingress-benchmark`](https://github.com/dtkmn/rtb-ingress-benchmark) - RTB ingress benchmark harness comparing Quarkus JVM/native, Go, Rust, Python, Spring, and Node across HTTP-only and Kafka-backed modes.
 - [`spring-boot-playground`](https://github.com/dtkmn/spring-boot-playground) - opinionated Spring service starter with MVC/JPA and WebFlux/R2DBC tracks, CI, ADRs, release process, and Helm support.
 
